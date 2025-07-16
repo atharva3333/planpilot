@@ -1,3 +1,7 @@
+
+![Quick Query](https://github.com/user-attachments/assets/0dd05065-0563-41e0-8a81-92e4ff068cd2)
+
+
 # 🧳 AI Travel Planner (LangChain + Ollama + React)
 
 This is an AI-powered travel planner app built with **React + Vite**, using **LangChain.js** and **Ollama** to run a local LLM and generate smart trip itineraries.
